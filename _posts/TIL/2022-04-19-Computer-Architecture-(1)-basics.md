@@ -1,5 +1,5 @@
 ---
-title: "Computer Architecture (1)"
+title: "Computer Architecture (1) Basics"
 # lasat_modified_at: 2022-04--19T11:36
 categories:
     - TIL
@@ -8,13 +8,10 @@ tags:
     - Computer Architecture
 ---
 
-# 3/15
 
 # Under the Covers & Building Processors and Memory
 
 컴퓨터 하드웨어 구성에 대해 간단하게 다뤄본다.
-
-17p
 
 ## 1. Components of a computer
 
@@ -35,8 +32,6 @@ tags:
 - 메모리에 data를 쓰거나, 메모리로부터 data를 읽어온다.
 - 키보드, 마우스, 모니터 등등. 메모리의 특정 부분이 특정 I/O 장치를 위해 할당되에 있고, 그 부분 data를 특정 주기로 읽어오는 식이라고 한다. 오..
 
-19p
-
 ## 2. Microprocessor(CPU)
 
 ### Datapath
@@ -46,8 +41,6 @@ tags:
 ### Control
 
 - Instructs the datapath, memory, and I/O devices
-
-20p
 
 ## 3. Interfaces
 
@@ -70,8 +63,6 @@ tags:
     - OS interface : fwrite, fread API functions. ABIs의 예이다. 이진파일을 쓰고 읽을 수 있게 해주는 함수 API이다.
 - I/O, memory allocation에 관한 상세한 부분을 encapsulate 한다는 점이 중요하다. OS에 의해 결정된다. (당연하다. 이 interface의 아래부분이 system software이니까!)
 
-21p
-
 ## 4. How do we store data? (메모리란?!)
 
 메모리에는 두가지가 있다! 쓰는 재료에 따라 차이가 나게 된다.
@@ -92,8 +83,6 @@ tags:
 
 # Performance
 
-24p
-
 ## 1. Defining Performace
 
 어떻게 정의해야할까? Performance metrics! 다양한게 있지만 두가지를 다룬다.
@@ -109,8 +98,6 @@ tags:
 - 다양한 task를 동시에 하는 Server나 WSCs에 유용.
 
 * Execution time이 더 뛰어나면서 Throughput이 더 안좋을 수 있다! 상황에 따라 Performance metrics를 잘 정의하는게 중요하다.
-
-25p
 
 ### Comparing the Performance
 
