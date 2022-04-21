@@ -102,7 +102,7 @@ Make any link standout more when applying the `.btn` class.
 <a href="#" class="btn--success">Success Button</a>
 ```
 
-[Primary Button](#){: .btn}
+[Primary Button](http://127.0.0.1:4000/til/){: .btn}
 [Success Button](#){: .btn .btn--success}
 [Warning Button](#){: .btn .btn--warning}
 [Danger Button](#){: .btn .btn--danger}

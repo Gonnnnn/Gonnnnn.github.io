@@ -1,6 +1,5 @@
 ---
 title: "Computer Architecture (2) Performance"
-# lasat_modified_at: 2022-04--19T11:36
 categories:
     - TIL
 tags:
