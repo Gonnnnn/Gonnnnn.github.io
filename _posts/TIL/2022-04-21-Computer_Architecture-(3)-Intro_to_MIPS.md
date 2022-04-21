@@ -54,8 +54,7 @@ MIPS를 PL로 추상화하며 다음을 배워보려 한다. why? 이해하기 �
 
 **C++와 같은 high-level language에서는 Memory의 주소값을 통해 value를 직접 얻어와 연산이 가능하다. Memory의 12, 24와 같은 것의 주소를 찾아가 직접 얻을 수 있다는 것.
 
-![pvs(1)](Gonnnnn.github.io/image/til/pvs(1).png)
-
+![pvs(1)](https://gonnnnn.github.io/image/TIL/pvs(1).png)
 ### Bits & Data Sizes
 
 - Popular Data sizes!
@@ -80,7 +79,7 @@ MIPS를 PL로 추상화하며 다음을 배워보려 한다. why? 이해하기 �
 
 위의 것들을 종합해 시각화해보자. 아래는 PVS이다.
 
-![pvs(2)](Gonnnnn.github.io/image/til/pvs(2).png)
+![pvs(2)](https://gonnnnn.github.io/image/TIL/pvs(2).png)
 
 - PVS의 구성 요소인 CPU core, registers, memory를 위와 같이 시각화했다.
 
@@ -100,7 +99,7 @@ MIPS를 PL로 추상화하며 다음을 배워보려 한다. why? 이해하기 �
 
 ### Registers & Memory
 
-![registers](Gonnnnn.github.io/image/til/registers.png)
+![registers](https://gonnnnn.github.io/image/TIL/registers.png)
 
 - 32개의 register들은 각기 다른 이름을 갖는다.
 - 이 중 특정 register($zero 등..)들은 특정한 목적으로 밖에 사용할 수 없다. 어떤 것들은 프로그래머가 임의로 값을 쓰게 만들 수도 없다. 특정한 목적들은 이 후에 다시 다룬다!

@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /home-splash/
 hidden: true
 header:
   overlay_color: "#5e616c"

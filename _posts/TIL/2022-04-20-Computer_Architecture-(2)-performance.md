@@ -58,7 +58,8 @@ tags:
     - Clock period는 두개의 인접한 positive edge(clock signal이 0에서 1로 올라가는 부분) 사이의 시간을 말한다.
     - Clock rate는 Clock period의 역수이다. 초당 clock cycle 수를 의미한다.
     - 1-GHz clock(1초에 1G번의 clock cycle)을 위해서 clock period는 1ns여야 한다.
-    ![clock_cycle](Gonnnnn.github.io/image/til/clock_cycle.png)
+    ![clock_cycle](https://gonnnnn.github.io/image/TIL/clock_cycle.png)
+
 - CPU execution time = CPU clock cycles * Clock cycle time(Clock period) = CPU clock cycles / Clock rate
 
 ### Adding INstructions to Performance

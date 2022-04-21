@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: "/"
+  - title: "So wtf is this"
+    url: "/wtf/"
   - title: "TIL"
     url: "/til/"
   - title: "What I've Done"
