@@ -20,7 +20,7 @@ but nothing rly comes to mind ugh :' ) Any recommendation is welcome.
 intro: 
   - excerpt: "Hey! I love to spend time with people but I'm usually so damn busy and it's actually tragic.
   
-  Thinking about how i could utilize the time i spend working and studying, I realized I actually could communicate with people sharing things I've been working on!
+  Thinking about how I could utilize the time I spend working and studying, I realized I actually could communicate with people sharing things I've been working on!
   
   I'll probly post any stuff that have nothing to do with my work as well. I hope you guys find them interesting and get to know more about me!
   "
