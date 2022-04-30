@@ -1,5 +1,5 @@
 ---
-title: "Algorithm (1) 17142 17140 16235"
+title: "Algorithm (2) 17142 17140 16235"
 lasat_modified_at: 2022-04--29
 categories:
     - TIL
