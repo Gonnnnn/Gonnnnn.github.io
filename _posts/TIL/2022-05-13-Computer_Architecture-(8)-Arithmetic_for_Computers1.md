@@ -1,12 +1,11 @@
 ---
-title: "Computer Architecture (8) Arithmetic for Computers 1"
+title: "Computer Architecture (10) Arithmetic for Computers 3"
 categories:
     - TIL
 tags:
     - CS
     - Computer Architecture
 ---
-
 # Multiplication & Division
 
 ### Addition in Hardware
