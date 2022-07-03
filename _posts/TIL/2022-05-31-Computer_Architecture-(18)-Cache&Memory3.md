@@ -300,5 +300,3 @@ Cache coherence는 valid-invalid protocol에 의해 implement될 수 있다.
 - Snooping bus는 multi processor CPU에서 서로 다른 cache들에 의해 공유되는 bus이다.
 - Snooping protocol은, cache가 bus에게 traffic을 보내면, 다른 모든 cache가 해당 메세지를 듣게 되는 것이라고 한다.
 - VI protocol은 snooping protocol이라고 한다.
-
-1:41:00정도부터 정리
