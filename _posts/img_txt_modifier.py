@@ -1,4 +1,3 @@
-import markdown
 import os
 
 def replace(folder, file, y, m, d):
@@ -34,7 +33,6 @@ def replace(folder, file, y, m, d):
                 new_string = f'![Untitled](https://gonnnnn.github.io/image/{folder}/{m:0>2}{d:0>2}({cnt}).png)'
 
 
-    html = markdown.markdown("".join(text))
     with open(new_file, 'w', encoding='UTF8') as f:
         f.write("".join(text))
 
