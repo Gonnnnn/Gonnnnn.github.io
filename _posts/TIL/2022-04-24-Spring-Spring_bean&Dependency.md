@@ -1,5 +1,5 @@
 ---
-title: "Spring (1) Spring 기초 및 회원 관리 예제"
+title: "Spring (2) Spring 기초 및 회원 관리 예제"
 categories:
     - TIL
 tags:
