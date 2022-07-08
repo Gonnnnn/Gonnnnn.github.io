@@ -35,6 +35,8 @@ def replace(folder, file, y, m, d):
 
     with open(new_file, 'w', encoding='UTF8') as f:
         f.write("".join(text))
+    
+    print(f'{folder}\{file} - completed')
 
 folder = input("Folder: ")
 from_when = input("From when(MM DD): ")
@@ -49,3 +51,4 @@ for i in range(len(file_list)-1, -1, -1):
         break
     else:
         replace(folder, file_list[i], y, m, d)
+print('All completed')
